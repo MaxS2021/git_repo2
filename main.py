@@ -1,3 +1,4 @@
+# Создано на уроке. Макс
 def my_superfunction():
     print("Много принтов богу принтов")
 def main():
@@ -10,3 +11,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+print(1)
