@@ -1,3 +1,4 @@
+# Создано на уроке. Макс
 def my_superfunction():
     print("Много принтов богу принтов")
 def main():
